@@ -30,7 +30,7 @@ Em breve, compartilharei aqui meus projetos acadêmicos e pessoais.
 
 📫 Contato
 
-- LinkedIn: "Meu perfil no LinkedIn" (COLE_AQUI_SEU_LINK)
+- LinkedIn: in/matheus-de-almeida-fumagali-8620a0295
 - E-mail: matheusfumagali035@gmail.com
 
 ---
